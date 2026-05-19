@@ -3,8 +3,8 @@
 import AvatarSVG from "./AvatarSVG";
 
 const stats = [
-  { num: "1+", label: "Years Learning" },
-  { num: "10+", label: "Projects Built" },
+  { num: "2+", label: "Years Learning" },
+  { num: "20+", label: "Projects Built" },
   { num: "5+", label: "UI Designs" },
 ];
 
