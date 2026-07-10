@@ -46,7 +46,7 @@ const projects: Project[] = [
     title: "Responsive Portfolio",
     gridClass: "col-span-6 md:col-span-3",
     bgLabel: "WEB",
-    link: "https://newsportals.vercel.app/",
+    link: "https://newsportalss.vercel.app/",
     image: "/image/image3.png", // Placeholder image path
 
   },
