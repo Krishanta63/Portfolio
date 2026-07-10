@@ -17,7 +17,7 @@ const projects: Project[] = [
     title: "E-commerce",
     gridClass: "col-span-12 md:col-span-7",
     bgLabel: "REACT",
-    link: "https://electrowebsite.vercel.app/",
+    link: "https://electromandu.vercel.app/",
     image: "/image/image.png", // Placeholder image path
   },
   {
