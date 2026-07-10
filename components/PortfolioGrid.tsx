@@ -56,8 +56,8 @@ const projects: Project[] = [
     title: "Auth System UI",
     gridClass: "col-span-12 md:col-span-6",
     bgLabel: "MERN",
-    link: "https://bagaichaa.vercel.app/",
-    image: "/image/image1.png", // Placeholder image path
+    link: "https://manpower-project-iota.vercel.app/",
+    image: "/image/image2.png", // Placeholder image path
 
   },
   {
@@ -66,7 +66,8 @@ const projects: Project[] = [
     title: "Weather / API App",
     gridClass: "col-span-12 md:col-span-6",
     bgLabel: "API",
-    link: "https://github.com/yourrepo",
+    link: "https://bagaichaa.vercel.app/",
+    image: "/image/image1.png", // Placeholder image path
   },
 ];
 
